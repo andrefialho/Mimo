@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Sweat: Group Fitness Classes</title>
+  <body>
+    <h1>Sweat</h1>
+    <h3>Group Fitness Classes</h3>
+    <P><em>Sweat</em>, located at Main and 18th, offers group fitness classes to
+      support your fitness journey every step of the way. <em>Sweat</em> offers
+      a variety of classes including:</p>
+    <p>Spin, Pilates, Yoga, Guided Run, Weight Lifting, and many more! <br>
+      Click the button to learn more!</p>
+    <button>View Schedule</button>
+  </body>
+  </head>
+</html>
